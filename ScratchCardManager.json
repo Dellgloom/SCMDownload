@@ -1,0 +1,19 @@
+{
+  "Author": "Dellgloom",
+  "Name": "Scratch Card Manager",
+  "InternalName": "ScratchCardManager",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A tool which shows what scratch cards you have available, allows you to generate links to the cards and validate wins.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "scratchcard",
+    "casino"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A tool for managing and selling scratch cards.",
+  "AcceptsFeedback": true
+}
